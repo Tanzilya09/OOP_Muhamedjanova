@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
+<<<<<<< HEAD
 struct sterling {
     int funt;   
     int shillings; 
@@ -25,3 +26,19 @@ int main() {
 
     return 0;
 }
+=======
+void countCalls();
+
+int main() {
+    setlocale(LC_ALL, "rus"); 
+    for (int i = 0; i < 10; i++) {
+        countCalls(); 
+    }
+    return 0;
+}
+void countCalls() {
+    static int count = 0;
+    count++;
+    cout << "Функция вызвана " << count << " раз(а)." << endl;
+}
+>>>>>>> Repo2/master

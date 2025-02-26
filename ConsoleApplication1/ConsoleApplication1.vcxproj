@@ -21,7 +21,11 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
+<<<<<<< HEAD
     <ProjectGuid>{727713f5-f8f7-42d6-b8e0-9889fee95388}</ProjectGuid>
+=======
+    <ProjectGuid>{ea1b7160-4cef-4ea5-ac30-2d758e8c78a5}</ProjectGuid>
+>>>>>>> Repo2/master
     <RootNamespace>ConsoleApplication1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>5</ProjectName>
@@ -128,7 +132,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="ConsoleApplication1.cpp" />
+=======
+    <ClCompile Include="5.cpp" />
+>>>>>>> Repo2/master
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

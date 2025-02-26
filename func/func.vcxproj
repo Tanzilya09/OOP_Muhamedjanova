@@ -21,12 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-<<<<<<< HEAD
-    <ProjectGuid>{6081f293-fb1d-4aff-878d-df8731a9ad96}</ProjectGuid>
-=======
-    <ProjectGuid>{d9a7a01d-7de2-4c82-b902-2f6d738e7cb8}</ProjectGuid>
->>>>>>> Repo2/master
-    <RootNamespace>My9</RootNamespace>
+    <ProjectGuid>{8c6191af-b280-42de-9f38-345b9e0d4b1a}</ProjectGuid>
+    <RootNamespace>func</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -131,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="9.cpp" />
+    <ClCompile Include="func.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

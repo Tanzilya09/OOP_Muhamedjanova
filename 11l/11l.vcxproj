@@ -21,12 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-<<<<<<< HEAD
-    <ProjectGuid>{6081f293-fb1d-4aff-878d-df8731a9ad96}</ProjectGuid>
-=======
-    <ProjectGuid>{d9a7a01d-7de2-4c82-b902-2f6d738e7cb8}</ProjectGuid>
->>>>>>> Repo2/master
-    <RootNamespace>My9</RootNamespace>
+    <ProjectGuid>{b52cb68b-ece3-4c16-9a41-313f8679cae5}</ProjectGuid>
+    <RootNamespace>My11l</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -131,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="9.cpp" />
+    <ClCompile Include="11l.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
