@@ -1,0 +1,9 @@
+[submodule "OOP1"]
+	path = OOP1
+	url = https://github.com/Tanzilya09/OOP.git
+[submodule "OOP2"]
+	path = OOP2
+	url = https://github.com/Tanzilya09/OOP_2lab.git
+[submodule "OOP3"]
+	path = OOP3
+	url = https://github.com/Tanzilya09/OOP_3lab.git
