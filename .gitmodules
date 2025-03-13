@@ -13,3 +13,6 @@
 [submodule "OOP5"]
 	path = OOP5
 	url = https://github.com/Tanzilya09/OOP5.git
+[submodule "OOP6"]
+	path = OOP6
+	url = https://github.com/Tanzilya09/OOP6.git
