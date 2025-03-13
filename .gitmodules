@@ -10,3 +10,6 @@
 [submodule "OPP4"]
 	path = OPP4
 	url = https://github.com/Tanzilya09/OPP4.git
+[submodule "OOP5"]
+	path = OOP5
+	url = https://github.com/Tanzilya09/OOP5.git
